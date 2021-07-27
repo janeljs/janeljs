@@ -1,20 +1,19 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeljs&theme=radical)](https://github.com/janeljs/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeljs&theme=nightowl)](https://github.com/janeljs/github-readme-stats)  
 
 
 
 
-<!--
-**janeljs/janeljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeljs&layout=compact&theme=cobalt)](https://github.com/janeljs/github-readme-stats)
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeljs&layout=compact&theme=nightowl)](https://github.com/janeljs/github-readme-stats)
+
+ 
+
+
+
+
+
+
+
