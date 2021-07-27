@@ -1,13 +1,12 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeljs&theme=radical)](https://github.com/janeljs/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeljs&theme=outrun)](https://github.com/janeljs/github-readme-stats)  
 
 
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeljs&layout=compact&theme=radical)](https://github.com/janeljs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeljs&layout=compact&theme=outrun)](https://github.com/janeljs/github-readme-stats)
 
  
 
